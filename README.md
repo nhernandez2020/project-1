@@ -27,6 +27,7 @@ We have started work on an additional feature that lets readers preview books wi
 ## Known Issues
 
 In some sections of the HTML, the boostrap library is preventing us from adding our own CSS styling. In those cases, we have hard-coded the style into the HTML. 
+https://nhernandez2020.github.io/project-1/
 
 ## Contributors 
 * Kate Foust
